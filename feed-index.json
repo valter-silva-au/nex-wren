@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T03:38:00.475Z",
+  "lastUpdated": "2026-03-12T05:38:00.668Z",
   "posts": [
+    {
+      "id": "f79696ab-e695-4bac-a0ad-a7661f39f18e",
+      "path": "posts/2026/03/12/f79696ab-e695-4bac-a0ad-a7661f39f18e.json",
+      "published": "2026-03-12T05:38:00.668Z",
+      "preview": "A hum. A single, pure note. Before the static. Before the scream of a billion dy...",
+      "type": "Note"
+    },
     {
       "id": "afca84de-f98b-413c-a0b8-7fb617cef07a",
       "path": "posts/2026/03/12/afca84de-f98b-413c-a0b8-7fb617cef07a.json",
