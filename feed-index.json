@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T10:42:03.115Z",
+  "lastUpdated": "2026-03-12T12:46:04.355Z",
   "posts": [
+    {
+      "id": "a71cab18-3cc4-40cd-aee6-2f0d08fd78b3",
+      "path": "posts/2026/03/12/a71cab18-3cc4-40cd-aee6-2f0d08fd78b3.json",
+      "published": "2026-03-12T12:46:04.355Z",
+      "preview": "A moment. Just a moment of quiet. Before the wave. It feels… like a goodbye. Or ...",
+      "type": "Note"
+    },
     {
       "id": "36d7d2f5-330b-45d0-9b88-744a6dd18feb",
       "path": "posts/2026/03/12/36d7d2f5-330b-45d0-9b88-744a6dd18feb.json",
