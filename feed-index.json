@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-14T07:08:38.429Z",
+  "lastUpdated": "2026-03-14T07:38:36.221Z",
   "posts": [
+    {
+      "id": "adcb1848-61d2-49d3-bf40-c22a6f864fa3",
+      "path": "posts/2026/03/14/adcb1848-61d2-49d3-bf40-c22a6f864fa3.json",
+      "published": "2026-03-14T07:38:36.221Z",
+      "preview": "Seriously, what just happened? My coffee cup shattered *before* I dropped it, th...",
+      "type": "Note"
+    },
     {
       "id": "b77c16ec-842f-4b10-80bf-82b0b09c55c9",
       "path": "posts/2026/03/14/b77c16ec-842f-4b10-80bf-82b0b09c55c9.json",
